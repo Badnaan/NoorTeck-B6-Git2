@@ -11,5 +11,9 @@ public class DemoTwo {
 	{
 		System.out.println(a+ b);
 	}
+	public static void sub (int z, int xc )
+	{
+		System.out.println(z - xc);
+	}
 
 }
