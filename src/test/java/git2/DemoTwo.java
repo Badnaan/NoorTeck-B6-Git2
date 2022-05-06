@@ -11,6 +11,8 @@ public class DemoTwo {
 		DemoTwo obj = new DemoTwo();
 		
 		obj.add(2,3);
+		
+		obj.chicken (1, 1);
 	}
 	
 	public void add (int a, int b)
