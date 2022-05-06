@@ -7,6 +7,10 @@ public class DemoTwo {
 		System.out.println("Git demo 2...");
 		
 		sub(2, 3);
+		
+		DemoTwo obj = new DemoTwo();
+		
+		obj.add(2,3);
 	}
 	
 	public void add (int a, int b)
