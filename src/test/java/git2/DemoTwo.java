@@ -19,8 +19,8 @@ public class DemoTwo {
 	}
 	public void chicken (int egg , int chicken)
 	{
-		
 		System.out.println("Who came first? " + egg + chicken);
+		System.out.println (egg / chicken);
 	}
 
 }
